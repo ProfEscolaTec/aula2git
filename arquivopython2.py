@@ -1,1 +1,1 @@
-print("O segundo B Técnico é a melhor turma!!!!!!!!!")
+print("Atualização de commit")
